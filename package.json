@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "dist/core/index.js",
   "files": [
-    "dist"
+    "dist", 
+    "src"
   ],
   "scripts": {
     "upgrade": "yarn upgrade",
